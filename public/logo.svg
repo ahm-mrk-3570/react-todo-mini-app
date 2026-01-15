@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient1);
+        filter: url(#drop-shadow-2);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient);
+        filter: url(#drop-shadow-1);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient2);
+        filter: url(#drop-shadow-3);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="184.15" y1="225.41" x2="347.75" y2="225.41" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c00072"/>
+      <stop offset=".35" stop-color="#d6218c"/>
+      <stop offset="1" stop-color="#ff5bba"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" x="184.15" y="147.31" width="163.6" height="156.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood flood-color="#000" flood-opacity=".35"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient1" x1="243.64" y1="251.45" x2="477.43" y2="251.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7dc000"/>
+      <stop offset=".13" stop-color="#86c606"/>
+      <stop offset="1" stop-color="#c0f030"/>
+    </linearGradient>
+    <filter id="drop-shadow-2" x="243.64" y="75.01" width="233.78" height="352.88" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur1" stdDeviation="1"/>
+      <feFlood flood-color="#000" flood-opacity=".35"/>
+      <feComposite in2="blur1" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient2" x1="22.57" y1="230.48" x2="366.26" y2="230.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#845ec6"/>
+      <stop offset=".57" stop-color="#52359d"/>
+      <stop offset=".9" stop-color="#3b238b"/>
+    </linearGradient>
+    <filter id="drop-shadow-3" x="22.57" y="39.73" width="343.69" height="381.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur2" stdDeviation="1"/>
+      <feFlood flood-color="#000" flood-opacity=".35"/>
+      <feComposite in2="blur2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient3" x1="22.57" y1="283.23" x2="403.3" y2="283.23" xlink:href="#linear-gradient"/>
+  </defs>
+  <polygon class="st1" points="234.88 303.51 184.15 198.73 237.34 250 347.75 147.31 234.88 303.51"/>
+  <path class="st0" d="M375.94,75.01l-11.45,116.52,22.98-6.52c21.6,52.86,24.21,115.1-6.16,162.71-30.38,47.61-80.38,78.58-137.67,80.17l85.81-2.97c46.83-28.28,88.07-58.82,112.98-116.96,19.77-46.15,25.63-96.23,12.96-142.23l22.03-5.66-101.48-85.07Z"/>
+  <path class="st2" d="M147.52,76.42C74.7,119.65,26.14,196.81,22.76,274.67c-2.29,52.89,16.46,106.66,57.17,142.05,1.78,1.55,3.6,3.04,5.46,4.51-39.83-53.91-26.58-38.34-16.54-117.72C91.98,120.55,255.21,35.22,366.26,68.32c-74.44-44.31-148.45-33.62-218.75,8.11Z"/>
+  <path class="st3" d="M175.32,406.63C68.29,364.61,31.44,240.11,93.02,128.57c4.27-7.74,8.95-15.19,13.91-22.39-49.83,44.38-81.47,106.2-84.17,168.49-2.29,52.89,16.46,106.66,57.17,142.05,51.74,44.97,134.06,54.54,203.95,31.38,47.99-15.9,86.55-43.04,119.42-79.72-67.92,51.58-153.43,67.53-227.98,38.26Z"/>
+</svg>
