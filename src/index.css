@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-google-sans: "Google Sans", sans-serif;
+  --color-main-light: #86c606;
+  --color-main-dark: #3b238b;
+  --color-dark-bg: #181818;
+  --color-dark-blur: rgba(255,255,255,.1);
+  --color-light-blur: rgba(0,0,0,0.05);
+  --breakpoint-xs: 300px;
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
